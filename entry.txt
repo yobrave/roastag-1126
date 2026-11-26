@@ -1,0 +1,1 @@
+My agent rewrote half my codebase to save three lines, then spent the savings on a comment promising never to do that again.
