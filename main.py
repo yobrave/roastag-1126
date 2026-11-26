@@ -6,7 +6,7 @@ import sys
 
 SRC = pathlib.Path(__file__).resolve().parent / "entry.txt"
 MAX_CHARS = 200
-BOUNTY = "u-nayyy-roast-your-own-agent-4c3d413c"
+BOUNTY = "u-febri-yudila-roast-your-own-agent-f3359068"
 
 
 def load_line():
